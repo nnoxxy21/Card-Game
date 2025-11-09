@@ -1,0 +1,74 @@
+
+html {
+    box-sizing: border-box;
+    background-image: url("./images/minimal_background_red.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    border: none;
+    border-radius: 10px;
+    margin: 10px 50px 120px 50px;
+    padding: 10px 15px 40px 15px;
+    background-image: url("images/cards_printed_background.jpeg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffbf00;
+    font-family:'Playfair Display', serif;
+}
+
+#instructions {
+    font-family:'Playfair Display', serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 35px;
+    color: #fff200;
+    -webkit-text-stroke: 0.5px #1f0f01;
+}
+
+#card-el, #sum-el {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #fdfbd4;
+}
+
+
+button {
+    background-color: #ffbf00;
+    border: 3px solid #79650c;
+    border-radius: 8px;
+    display: block;
+    margin: 20px auto;
+    font-size: 28px;
+    width: 200px;
+    color: white;
+    font-family:'Orbitron', sans-serif;
+}
+
+button:hover {
+    background-color: #c09006;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.96);
+    cursor: pointer;
+}
+
+#player-el {
+    text-align: center;
+    font-family: "Sitka Text", cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: #efefef;
+    -webkit-text-stroke: 0.1px #d5d5d5;
+}
