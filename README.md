@@ -35,9 +35,7 @@ This project is part of my learning journey toward mastering **front-end develop
 ---
 
 ## 🖼️ Demo
-(You can host it using GitHub Pages later — example link:)  
-👉  [https://blackyjacky-axifica-studios.netlify.app]
-
+👉Play Now: [https://blackyjacky-axifica-studios.netlify.app]
 ---
 
 ## 📜 License
