@@ -36,7 +36,7 @@ This project is part of my learning journey toward mastering **front-end develop
 
 ## 🖼️ Demo
 (You can host it using GitHub Pages later — example link:)  
-👉 `https://yourusername.github.io/Card-Game/`
+👉  [https://blackyjacky-axifica-studios.netlify.app]
 
 ---
 
